@@ -11,7 +11,7 @@ except ModuleNotFoundError:
     os.system('pip install mechanize requests futures==2 > /dev/null')
     os.system('python Kashif.py')
 from bs4 import BeautifulSoup
-ugen=Mozilla/5.0 (Linux; Android 13; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.126 Mobile Safari/537.36
+ugen="Mozilla/5.0 (Linux; Android 13; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.126 Mobile Safari/537.36"
 A = '\x1b[1;97m' 
 B = '\x1b[1;96m' 
 C = '\x1b[1;91m' 
